@@ -1,0 +1,19 @@
+{
+    "name": "burlakova7/task04",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/checkIfBalanced.php",
+            "src/Test.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "burlakova7",
+            "email": "burlakova7@yandex.ru"
+        }
+    ],
+    "require": {}
+}
